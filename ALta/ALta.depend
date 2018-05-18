@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526676573 source:c:\test\sboutet\alta\main.c
+	<stdio.h>
+	<stdlib.h>
+
